@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lostmode
-- 👀 I’m interested in Anti Cheat Systems
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++ & C#
 - 📫 How to reach me - Discord Naim#7285
