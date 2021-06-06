@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @lostmode
+- 👋 Hi, I’m Naim
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me - Discord Naim#7285
