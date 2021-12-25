@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Naim
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Web Security
 - 📫 How to reach me - Discord Naim#7285
